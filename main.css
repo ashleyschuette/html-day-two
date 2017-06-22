@@ -1,0 +1,279 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.main_header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    width:100%;
+}
+.main_header_inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+    max-width: 1240px;
+    height:80px;
+}
+.logo {
+    width:100px;
+    color: #fff;
+}
+li {
+    display: inline-block;
+    margin-left: 32px;
+    color: rgba(255,255,255,0.8);
+}
+
+.top-section {
+    width: 100%;
+    height: auto;
+background-image: linear-gradient(-135deg, #B9A6FE 0%, #7960FF 100%);
+}
+
+.max-width {
+    width: 100%;
+    max-width: 1240px;
+    margin: auto;
+}
+
+.content-section {
+    height:  auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.content-section h1 {
+    margin-top: 10%;
+    font-weight: 900;
+    font-size: 4rem;
+    color: white;
+    margin-bottom: 70px;
+    padding: 0 10%;
+}
+
+.main-cta {
+    padding: 20px 32px;
+    color: white;
+    background: #3ee3fa;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.main-cta {
+    outline: none;
+}
+
+.laptop {
+    position: relative;
+    top: 75px;
+}
+
+.second-section {
+    height: 850px;
+}
+
+.header-margin {
+    margin-top: 10%;
+}
+
+.content-section h2 {
+    font-weight: 600;
+    font-size: 1rem;
+    color: black;
+    text-transform: uppercase;
+}
+
+.content-section h3 {
+    font-weight: 400;
+    font-size: 2rem;
+    color: black;
+}
+
+.feature-grid {
+    margin: auto;
+    width: 80%;
+    margin-top: 100px;
+}
+
+.feature-grid-box {
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+    background: gray;
+    margin: 30px 50px 0 0;
+}
+
+.view-all-button {
+    margin: 5%;
+}
+
+.third-section {
+    width: 100%;
+    height: auto;
+background-image: linear-gradient(-135deg, #B9A6FE 0%, #7960FF 100%);
+}
+
+.header-margin-third {
+    margin-top: 5%;
+}
+
+.testimonial-grid-box {
+    display: inline-block;
+    width: 350px;
+    height: 300px;
+    background: gray;
+    margin: 30px 50px 10% 0;
+}
+
+.fourth-section {
+    width: 100%;
+}
+
+.header-margin-fourth {
+    margin: 5%;
+}
+
+.about-app {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-app-text {
+    width: 40%;
+    text-align: left;
+    margin-left: 8%;
+}
+
+.about-app-image {
+    display: inline-block;
+    background: gray;
+    height: 600px;
+    width: 60%;
+}
+
+.more-new-app {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.more-new-app-image {
+    display: inline-block;
+    background: gray;
+    height: 600px;
+    width: 60%;
+    margin-top: 5%;
+}
+
+.more-new-app-text {
+    width: 40%;
+    text-align: left;
+    margin-right: 8%;
+}
+
+.signup-section {
+    margin-top: 5%;
+    width: 100%;
+}
+
+.signup-button {
+    margin: 2% 0 5% 0;
+}
+
+.bottom-section {
+    width: 100%;
+background-image: linear-gradient(-135deg, #B9A6FE 0%, #7960FF 100%);
+    
+}
+
+.users-and-counting h3 {
+    color: white;
+    margin-top: 5%;
+}
+
+.counter {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+}
+
+.number-counter-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.number-counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    opacity: 0.1;
+    height: 150px;
+    width: 110px;
+    border-radius: 5%;
+}
+
+.number-one {
+    margin-right: 2%;
+}
+
+.numbers {
+    font-size: 60px;
+    color: black;
+}
+
+.number-two {
+    margin-right: 2px;
+}
+
+.number-three {
+    margin-right: 2px;
+}
+
+.number-four {
+    margin-right: 2%;
+}
+
+.number-five {
+    margin-right: 2px;
+}
+
+.number-six {
+    margin-right: 2px;
+}
+
+.find-yours {
+    color: white;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    text-transform: uppercase;
+}
+
+.subscribe-textbox {
+    width: 400px;
+    height: 50px;
+    margin-bottom: 5%;
+}
+
+/*.subscribe-button {
+    width: 200px;
+    height: 50px;
+}*/
+
+
+
